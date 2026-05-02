@@ -177,10 +177,7 @@ Cross-Validation F1: 0.9435 ± 0.0002
 
 ## 👤 Author
 
-**Ayad Seghairi**
-Computer Science Student — Abbas Laghrour University, Khenchela, Algeria
-
-- GitHub: [@ayadseghairi](https://github.com/ayadseghairi)
+TRAD Malak : trad.malak@univ-khenchela.dz
 
 ---
 
